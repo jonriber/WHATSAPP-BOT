@@ -1,2 +1,6 @@
 # Ignore node_modules folder
 node_modules
+#Ignore tokens
+tokens
+#Ignore lock json
+*-lock.json

@@ -12,8 +12,6 @@ const createWpp = async() => {
     }
 };
 
-console.log("OLHA EU AQUI SAMUCA!!!!")
-
 function start(wpp){
     wpp.on("message",(message) => {
         wpp.sendMessage("+12996656818", "Olá Jonatas!")
